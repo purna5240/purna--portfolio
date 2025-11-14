@@ -32,7 +32,7 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/path/to/your-cv.pdf" // Replace with your actual file path
+                href="/src/assets/pr.pdf" // Replace with your actual file path
                 download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 >

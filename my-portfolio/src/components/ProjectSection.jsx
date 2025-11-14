@@ -8,8 +8,8 @@ const projects = [
           "I developed this as my first web development project in 2022 as part of an assignment for a company. It’s an interactive gaming puzzle designed to enhance user engagement through real-time performance-based difficulty adjustments. The project uses Python for backend processing and HTML, CSS, JavaScript, and PHP for the frontend and server-side logic.",
         image: "/Projects/gaming.jpg",
         tags: ["Python", "HTML", "CSS", "JavaScript", "PHP"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://github.com/purna5240/islandoffortune",
+        githubUrl: "https://github.com/purna5240/islandoffortune",
       },
       {
         id: 2,
@@ -18,8 +18,8 @@ const projects = [
           "A personal portfolio website built using React and Tailwind CSS to showcase academic and technical projects. Integrated a Python-based analytics dashboard to monitor visitor metrics and visualized engagement data using Matplotlib and Seaborn for insights.",
         image: "/Projects/portfolio.png",
         tags: ["React", "TailwindCSS", "Python", "Matplotlib", "Seaborn"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://github.com/purna5240/purna--portfolio",
+        githubUrl: "https://github.com/purna5240/purna--portfolio",
       }
       ,
       {
@@ -29,8 +29,8 @@ const projects = [
           "A published full-stack e-learning platform built to improve accessibility and structure of digital learning materials. Includes features such as notes, assignments, and assessments, with integrated data analytics to identify user behavior trends and enhance content usability.",
         image: "/Projects/e-learning.png",
         tags: ["React", "Node.js", "Express.js", "MongoDB"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://github.com/purna5240/Final-Combine",
+        githubUrl: "https://github.com/purna5240/Final-Combine",
       }
       ,
     {
@@ -40,8 +40,8 @@ const projects = [
         "A movie recommendation system that suggests similar movies based on genre using content-based filtering. Implemented TF-IDF for feature vectorization and cosine similarity to compute recommendations.",
       image: "/Projects/movies.jpg",
       tags: ["Python", "Pandas", "TF-IDF", "Cosine Similarity", "Machine Learning"],
-      demoUrl: "#",
-      githubUrl: "#",
+      demoUrl: "https://colab.research.google.com/drive/1f8eoTWGcpbiU0kvqBNMYfwqkiPMRdd89?usp=sharing",
+      githubUrl: "https://colab.research.google.com/drive/1f8eoTWGcpbiU0kvqBNMYfwqkiPMRdd89?usp=sharing",
     },
   ];
   
